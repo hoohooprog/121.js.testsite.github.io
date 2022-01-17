@@ -9,5 +9,7 @@ num1 = 5;
 num2 = 7;
 total = num1 + num2;
 
-document.write("Welcome to my calculator!");
+document.write("Welcome to my calculator" + "<br>");
 document.write("The sum of " + num1 + " " + num2 + " is :" + total);
+
+// reference code: https://www.tutorialspoint.com/how-to-add-a-number-and-a-string-in-javascript
