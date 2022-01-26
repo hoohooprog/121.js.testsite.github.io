@@ -13,3 +13,4 @@ document.write("Welcome to my calculator" + "<br>");
 document.write("The sum of " + num1 + " + " + num2 + " is : " + total);
 
 // reference code: https://www.tutorialspoint.com/how-to-add-a-number-and-a-string-in-javascript
+// changed name to index1.js to reflect solution to class assignment and as record keeping for future updates
