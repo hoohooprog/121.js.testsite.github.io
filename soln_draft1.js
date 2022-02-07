@@ -14,7 +14,7 @@ let msg = function(scores) {
 	let sum_score = 0;
 	for (i=0; i<(scores.length); i++){
 		sum_score += scores[i];
-		alert(`sum_score: ${sum_score}`);
+		//alert(`sum_score: ${sum_score}`);
 	}
 	
 	avg_score = sum_score/scores.length;
